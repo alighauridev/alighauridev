@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">I'm Ali, a Full-Stack Developer, passionate about creating impactful applications using latest technologies.<br><br>- 🔭 I’m working on my app LearnStack<br>- 📚 I'm currently learning ML<br>- ⚡ In my free time I play cricket<br>- 📫 How to reach me alighouridev@gmail.com</p>
+<p align="left">I'm Ali, a Full-Stack Developer, passionate about creating impactful applications using latest technologies.<br><br>- 🔭 I’m working on my app LearnStack<br>- 📚 I'm currently learning ML<br>- ⚡ In my free time I play cricket<br>- 📫 How to reach me alighauridev@gmail.com</p>
 
 ###
 
